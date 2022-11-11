@@ -54,6 +54,7 @@ public class Calculator extends JFrame implements ActionListener {
 				
 				index++;
 			}
+			
 		}
 		add(tField, BorderLayout.NORTH);
 		add(panel, BorderLayout.CENTER);
